@@ -9,7 +9,7 @@ BROWN = (89, 61, 32)
 LIGHT_BROWN = (123, 95, 66)
 LIGHTER_BROWN = ()
 WHITE = (255,255,255)
-
+num = 3
 # set block/margins size
 block_size = 50
 left_margin = 5 * block_size
