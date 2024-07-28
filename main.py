@@ -3,8 +3,7 @@ import pygame
 import random
 import copy
 import time
-
-
+#jhhkhl
 # set colors
 SEA_COLOR = (0, 137, 171)
 BROWN = (89, 61, 32)
